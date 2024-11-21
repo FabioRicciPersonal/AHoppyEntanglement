@@ -1,0 +1,105 @@
+
+
+
+The corridor
+------------
+
+#### **Mosaic Corridor (Trap Area)**
+- Enhance the blade trap: Make it magical, dealing force damage and requiring a DC 15 Dexterity save.
+- Include animated armor or spectral guardians patrolling the area as additional combat threats.
+
+
+### **Mosaic Corridor: Enhanced Puzzle and Combat**
+
+#### **Setup**:
+The glowing mosaic in the corridor hums with magical energy. Each of the four panels corresponds to a verse from the engraved poem on the wall, with depictions of the elements: *air, earth, water, and fire.* As the party steps closer, they notice faint scorch marks and claw scratches on the floor.
+
+#### **Puzzle Mechanics**:
+The poem's verses give the solution:
+- **Air (Sky)**: First panel
+- **Earth (Hill)**: Second panel
+- **Water (River)**: Third panel
+- **Fire (Pyre)**: Fourth panel
+
+Stepping on a wrong panel triggers an elemental blast:
+- **Air**: Gust of wind knocks the character prone (DC 15 Strength save).
+- **Earth**: Rocks shoot upward, dealing 3d6 bludgeoning damage (DC 15 Dex save for half).
+- **Water**: A wave douses the character, slowing their movement by half for 1 minute.
+- **Fire**: Flames erupt, dealing 4d6 fire damage (DC 15 Dex save for half).
+
+The correct path must be followed in order:
+1. Sky → Hill → River → Pyre.
+
+#### **Combat Additions**:
+As the puzzle activates, **2 Animated Armors** come to life, standing at the end of the corridor. They are enchanted guardians meant to protect the secret of the corridor.
+
+**Animated Armor Mechanics**:
+- Each guardian is enchanted with the following unique abilities:
+  - **Force Pulse**: Once per round, the armor emits a 10-ft pulse of force. Creatures in range must succeed on a DC 14 Strength save or be pushed back 5 ft.
+  - **Magical Reflection**: If targeted by a spell, the armor reflects half the damage or effect back at the caster (saving throw applies as normal).
+
+#### **Narrative Description**:
+When the adventurers approach the mosaic, describe the atmosphere:
+
+> The air grows heavy with arcane energy, the golden script on the wall shimmering faintly. Four panels stretch before you, each glowing faintly: a serene sky, a rolling green hill, a rushing river, and a crackling pyre. As you take a cautious step forward, the hum grows louder, and the image of a suit of armor flickers into existence near the far wall.
+
+---
+
+### **Alternative Solutions**:
+1. **Magic Users**:
+   - Casting *Detect Magic* reveals glowing patterns on the safe areas.
+   - Casting *Dispel Magic* deactivates one elemental effect for 1 minute.
+2. **Perception Clues**:
+   - A DC 15 Wisdom (Perception) check shows footprints that avoided the incorrect panels.
+3. **Acrobatics**:
+   - Characters can attempt a DC 16 Acrobatics check to jump between the correct panels.
+
+#### **Loot**:
+Once the corridor is cleared, the party can retrieve a hidden treasure chest embedded in the far wall:
+- **Treasure**:
+  - **50 GP** in an ornate pouch.
+  - **Ring of Elemental Adaptation**: Grants resistance to one chosen element (fire, cold, lightning, or acid) once attuned.
+  - A **Scroll of Fireball**.
+
+
+OR
+
+
+
+#### **Mosaic Corridor: Elemental Trap & Guardians**
+
+- **Setup**: The glowing mosaic emits magical energy. As adventurers step closer, the light flickers ominously, and ghostly whispers fill the air. Two suits of animated armor step off pedestals near the far wall.
+
+- **Puzzle Mechanics**:
+  - Stepping on incorrect panels triggers an elemental explosion as per the enhanced trap design.
+  - Correct sequence: *Sky → Hill → River → Fire.*
+
+- **Combat**:
+  - 2 **Animated Armors** guard the exit. If a creature is knocked prone, they target that creature to prevent puzzle-solving.
+
+- **Environment**:
+  - *Puzzle Panels*: Any creature standing on an incorrect panel when hit by an explosion must also make a DC 14 Dexterity save to avoid falling prone.
+  - *Glyph of Warding*: A glyph in the air activates if a character tries to bypass the trap magically, releasing a thunderwave (3d8 thunder damage, DC 15 Con save for half).
+
+
+- **Loot**:
+  - A charred wizard’s spellbook containing *Fireball*, *Scorching Ray*, and *Detect Magic*.
+  - A **Potion of Fire Resistance** in an intact vial.
+
+
+OR
+
+
+#### **Enhanced Mosaic Trap**
+- **Setup**: The mosaic still contains depictions of elements (sky, hill, river, fire), but magical energy now animates the panels.
+- **Mechanics**:
+  - **New Effects**:
+    - Incorrect step: Panel activates an elemental explosion.
+      - Air: 4d8 lightning (DC 15 Dex save for half).
+      - Earth: 4d8 bludgeoning (DC 15 Dex save for half).
+      - Water: 4d8 cold (DC 15 Dex save for half).
+      - Fire: 4d8 fire (DC 15 Dex save for half).
+  - **Solution**: The verse remains a clue, but touching the correct element panels in the sequence from the poem safely deactivates the trap.
+
+
+OR

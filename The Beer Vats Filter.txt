@@ -1,0 +1,20 @@
+
+
+
+The Beer Vats
+-------------
+
+Scorching Revenant
+------------------
+
+	Chaotic Neutral Dialogue
+	1.	Upon the party’s arrival:
+	"Who dares disturb my eternal vigil? The vats… they must be protected… but why? WHY must I suffer for eternity?"
+	2.	Mid-battle:
+	"Leave this place, intruders! I do not wish to kill, but I cannot let you pass!"
+	"My pain fuels the flames! You will burn as I burn!"
+	3.	As the Revenant is defeated:
+	"The curse… it weakens… but at what cost? Will I finally rest? Or will I wander these ashes forever?"
+	4.	If the party attempts to communicate:
+	"You cannot understand this torment! Bound by flames, by magic, by duty… this place is my prison,
+	and you are my distraction!"
