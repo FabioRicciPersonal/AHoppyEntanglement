@@ -4,3 +4,66 @@
 Well Room
 ----------
 
+#### **Well Room (Giant Centipedes)**
+- Replace **Giant Centipedes** with a **Giant Scorpion** or **Phase Spiders**.
+- Add an optional environmental hazard: The well's water might be magically poisoned, requiring the party to purify it.
+
+
+#### **Riddle of the Well Room**
+- **Challenge**: A magical well radiates an ominous energy. A riddle is inscribed on the rim:
+  - *"To drink the brew is to test your fate; choose wisely your draught to open the gate."*
+- **Mechanics**:
+  - Four magical potions appear near the well:
+    1. Red (Fire Resistance)
+    2. Blue (Water Breathing)
+    3. Green (Healing)
+    4. Purple (Mind Reading)
+  - Drinking the right potion opens a secret door to the Lab (answer: Green for vitality).
+
+#### **Setup**:
+The well room feels eerie and ancient. A large stone well dominates the center of the room, its edges inscribed with faint runes that pulse dimly. Sunlight filters in from a collapsed ceiling corner, illuminating a wooden table piled with tarnished plates and other strange items. As the party moves further, they notice faint skittering sounds from the well.
+
+---
+
+#### **Puzzle Mechanics**: Riddle of the Well
+The rim of the well has an inscription:
+
+> *"From brew to life, a choice must be made. Sip from the past to reveal the shade."*
+
+On a table near the well are four bottles of liquid, each labeled and glowing faintly:
+1. **Red Potion**: *Smells of embers and iron.*  
+2. **Blue Potion**: *Scent of seaweed and brine.*  
+3. **Green Potion**: *Aromatic and earthy.*  
+4. **Purple Potion**: *Sweet and floral.*
+
+- **Correct Choice**: Drinking the **Green Potion** (symbolizing vitality) reveals a secret compartment in the well, unlocking the way forward.
+- **Wrong Choices**:
+  - **Red**: The drinker breathes fire involuntarily, dealing 3d6 fire damage to themselves and anyone within 5 feet.
+  - **Blue**: The drinker begins choking as water fills their lungs (DC 15 Constitution save or incapacitated for 1 minute).
+  - **Purple**: The drinker falls into a deep sleep (unconscious for 1 minute, DC 15 Wisdom save to resist).
+
+**Clue**: A DC 15 Intelligence (Arcana) check or reading faded text on the table suggests the green potion is the key.
+
+---
+
+#### **Combat: Giant Centipedes Evolved**
+
+- As soon as a potion is consumed, **3 Giant Centipedes** crawl from the well, now mutated into **Venomous Centipedes**:
+  - **Venomous Centipede (CR 1)**:
+    - **HP**: 33
+    - **AC**: 14
+    - **Abilities**:
+      - **Venomous Bite**: +5 to hit, 1d8 piercing damage plus 3d6 poison damage (DC 14 Constitution save for half).
+      - **Wall Climber**: Moves along walls and ceilings without a check.
+
+- **Well Hazard**: If a character gets too close to the well, they risk falling in (DC 13 Dexterity save). The well is 50 feet deep with 10 feet of water at the bottom, dealing 2d6 falling damage.
+
+---
+
+#### **Loot**:
+- **Silver Plate Set**: A tarnished set worth 50 GP once cleaned.
+- **Potion of Vitality**: Hidden in a crack near the table, unnoticed unless searched for specifically (DC 15 Investigation).
+- **Key to the Lab**: Found in the secret compartment of the well after solving the puzzle.
+
+### **Narrative Description**:
+> The smell of damp stone fills your nostrils as you step into the room. The large well at its center radiates a strange energy, its rim lined with glowing runes that seem alive in the flickering light. Plates and strange items litter the table, as though someone was interrupted mid-meal centuries ago. A faint noise—a wet, skittering sound—echoes from the well, making your hair stand on end.

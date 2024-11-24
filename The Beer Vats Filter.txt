@@ -18,3 +18,55 @@ Scorching Revenant
 	4.	If the party attempts to communicate:
 	"You cannot understand this torment! Bound by flames, by magic, by duty… this place is my prison,
 	and you are my distraction!"
+
+
+3. **Miniboss: Scorching Revenant**
+   - **Scorching Revenant**
+     - HP: 120
+     - AC: 15
+     - Abilities:
+       - **Blazing Touch**: Melee, +7 to hit, 3d10 fire damage.
+       - **Fire Shield**: Resistance to melee damage; attackers take 2d10 fire damage on hit.
+       - **Fiery Wrath (Recharge 5-6)**: 20-ft. cone, DC 16 Dex save, 6d8 fire damage.
+
+### Updated Miniboss: Scorching Revenant
+
+#### **Encounter Setup**
+
+- **Location**: A secret chamber behind the lab, revealed after solving the riddle in the Well Room.
+- **Narrative**: The Revenant is the tortured spirit of the wizard who died in the brewing explosion. It guards the brewery's enchanted vats, its rage fueled by centuries of pain.
+
+#### **Scorching Revenant Stat Block**
+- **HP**: 120  
+- **AC**: 15  
+- **Abilities**:
+  - **Blazing Touch**: +7 to hit, 3d10 fire damage.
+  - **Fire Shield**: Resistance to melee damage; attackers take 2d10 fire damage.
+  - **Fiery Wrath (Recharge 5-6)**: 20-ft cone, DC 16 Dex save, 6d8 fire damage.
+- **Phase Shift**: The Revenant can teleport up to 30 ft. as a bonus action.
+
+
+
+5. **Miniboss Room**: The Scorching Revenant confrontation and cursed brewing vat.
+
+#### **Scorching Revenant**
+- **Medium Undead, Chaotic Neutral**
+- **AC**: 15
+- **HP**: 120
+- **Speed**: 30 ft.
+- **Abilities**:
+  - STR: 14 (+2), DEX: 14 (+2), CON: 16 (+3), INT: 10 (+0), WIS: 12 (+1), CHA: 18 (+4)
+- **Traits**:
+  - **Fiery Aura**: Creatures within 5 ft. of the Revenant at the start of their turn take 1d6 fire damage.
+  - **Phase Shift**: The Revenant can teleport up to 30 ft. as a bonus action, becoming incorporeal until the start of its next turn.
+- **Actions**:
+  - **Blazing Touch**: Melee Weapon Attack: +7 to hit, reach 5 ft., one target. Hit: 3d10 fire damage.
+  - **Fiery Wrath (Recharge 5-6)**: Exhales flames in a 20-ft cone. Each creature in the area must make a DC 16 Dexterity save, taking 6d8 fire damage on a failure or half on a success.
+
+---
+
+### **Additional Narrative Threads**
+
+#### 1. **The Brewery's Cursed History**
+- The Revenant reveals it was once a wizard experimenting with brewing magic. The curse originates from a failed alchemical experiment meant to enhance magical brewing.
+- Players can decide to fully lift the curse (by dispelling it using magic or artifacts) or stabilize it (leaving the magic infused with the brewery for minor benefits but potential risks).

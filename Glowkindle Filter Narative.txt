@@ -11,4 +11,12 @@ You see, while expanding our cellar, we uncovered… well, let’s call it *arca
 the old wizard’s tower. And now the rats are the least of our problems!"
 
 
+### Narrative Enhancements
 
+1. **Expanded NPC Role: Glowkindle**
+   - Glowkindle reveals he has inherited a strange tome tied to the Wizard’s Tower’s history. 
+   He doesn’t understand it but provides cryptic hints the party can decipher for clues.
+
+#### 2. **Expanded Role for Glowkindle**
+- Glowkindle provides subtle hints about the brewery’s history, connecting it to local folklore or legends.
+- If the curse is lifted, Glowkindle offers the party a share of future brewery profits (1d6 x 100 GP per month).

@@ -5,3 +5,123 @@ The Lab
 -------
 
 
+#### **Lab (Inferno Spider)**
+- Upgrade the **Giant Inferno Spider** to a **Flame Skull** or a unique fire-themed elemental (e.g., an Ember Hulk).
+- Make the alchemical materials volatile, exploding if disturbed and adding area-of-effect damage.
+3. **Lab**:
+   - Rectangular room with scorched remnants of alchemical tools. Bookshelves line one wall, and ash piles cover the floor. A glowing, magical barrier pulses behind the Ember Hulk’s lair.
+
+### **Lab Encounter: Inferno Spider
+---
+
+### **Inferno Spider**
+
+- **Large Monstrosity, Unaligned**
+- **AC:** 15 (natural armor)  
+- **HP:** 102 (12d10+36)  
+- **Speed:** 30 ft., climb 30 ft.
+
+---
+
+### **Ability Scores**
+| Ability   | Score | Modifier |
+|-----------|-------|----------|
+| Strength  | 16    | +3       |
+| Dexterity | 14    | +2       |
+| Constitution | 16 | +3       |
+| Intelligence | 2  | -4       |
+| Wisdom    | 11    | +0       |
+| Charisma  | 6     | -2       |
+
+---
+
+### **Skills**
+- **Stealth:** +6
+- **Passive Perception:** 10
+
+---
+
+### **Damage Resistances**
+- Fire
+
+---
+
+### **Senses**
+- Darkvision 60 ft.
+- Blindsight 10 ft.
+
+---
+
+### **Traits**
+1. **Fire Webs.**  
+   The Inferno Spider produces webbing infused with fire. The web is flammable and burns when exposed to an open flame, dealing 2d6 fire damage to any creature restrained by it. The web’s AC is 10, and it has 10 HP.  
+
+2. **Spider Climb.**  
+   The Inferno Spider can climb difficult surfaces, including ceilings, without needing to make an ability check.  
+
+3. **Flame Aura (Recharge 5-6).**  
+   As a bonus action, the Inferno Spider can activate an aura of fire that extends 5 feet around it. Any creature that starts its turn in the aura takes 2d6 fire damage. The aura lasts for 1 minute or until the spider deactivates it (no action required).  
+
+---
+
+### **Actions**
+1. **Flaming Bite.**  
+   Melee Weapon Attack: +6 to hit, reach 5 ft., one target.  
+   **Hit:** 15 (2d10+3) piercing damage, plus 9 (2d8) fire damage.  
+
+2. **Burning Web (Recharge 5-6).**  
+   Ranged Weapon Attack: +6 to hit, range 30/60 ft., one creature.  
+   **Hit:** The target is restrained by flaming webbing. At the start of its turn, the target takes 7 (2d6) fire damage. A creature can make a DC 14 Strength check to escape or destroy the webbing (AC 10, 10 HP).  
+
+---
+
+### **Reactions**
+**Fiery Retribution.**  
+When the Inferno Spider is hit by a melee attack, it can release a burst of fire in a 10-foot radius. Each creature within range must make a DC 14 Dexterity saving throw, taking 10 (3d6) fire damage on a failed save, or half as much on a success.  
+
+---
+
+### **Encounter Setup**
+
+#### **Environment Hazards**
+1. **Burning Webs**:  
+   The lab is partially covered in flammable webs that ignite if exposed to fire, dealing 2d6 fire damage to creatures within 5 feet of the flames.
+
+2. **Explosive Alchemical Tools**:  
+   Shattered vials and unstable potions litter the area. A creature hit by an attack while standing near the alchemical debris has a 50% chance to cause a small explosion (10 ft. radius, 3d6 fire damage, DC 13 Dex save for half).
+
+---
+
+### **Tactics**
+1. **Ambush Predator:**  
+   The Inferno Spider uses its Stealth to hide among the lab’s shadows or on the ceiling, ambushing the party with **Burning Web** to restrain key targets before leaping into melee combat.
+
+2. **Area Control:**  
+   The **Flame Aura** forces the party to spread out, while the **Burning Web** focuses on disabling casters or ranged attackers.
+
+3. **Retreat to the Ceiling:**  
+   If its HP drops below 40, the spider retreats to a high vantage point, using its **Burning Web** and **Fiery Retribution** to deter pursuit.
+
+---
+
+### **Treasure**
+- **Spider Silk Amulet (Magic Item):** Grants resistance to fire damage for 1 hour when worn (requires attunement).
+- **Potion of Fire Resistance:** Found in a cocooned adventurer's remains.
+- A hidden stash of alchemical reagents worth 100 GP.
+
+---
+
+Would you like to add environmental effects, specific loot, or alternate tactical abilities for this encounter?- **Unstable Alchemical Glassware**: Destroying certain shelves triggers a small explosion (10 ft. radius, 2d8 fire damage, DC 13 Dexterity save for half).
+
+---
+
+#### **Loot**:
+1. **Charred Spellbook**: Contains *Fireball*, *Scorching Ray*, and *Detect Magic*.
+2. **Potion of Fire Resistance**: Found intact on a high shelf.
+3. **Wizard’s Wand of Pyrotechnics**: Allows the caster to use *Pyrotechnics* (DC 13) three times before becoming inert.
+
+---
+
+#### **Narrative Description**:
+> The room is sweltering, as though a fire were still burning just below the surface of the stone floor. Scorch marks cover the walls and ceiling, and molten puddles bubble ominously in the corners. At the center of the room, a towering figure stands—its glowing, molten form dripping embers with every breath. As it notices you, the room grows hotter, and the creature emits a low, rumbling growl.
+

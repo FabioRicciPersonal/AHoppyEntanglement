@@ -4,3 +4,54 @@
 Beer Cellar
 -----------
 
+#### **Beer Cellar (Giant Rat Ambush)**
+- Replace the **Giant Rats** with **Were-Rats** or **Giant Poisonous Snakes**.
+- Add environmental hazards, like casks that could spill and cause difficult terrain or fire risks.
+
+
+#### **Beer Cellar: Were-Rat Ambush**
+
+- **Setup**: The cellar remains dark and damp, but the scratching of claws is louder, accompanied by faint chittering laughter. Barrels of ale emit a strange, faint glow, and shadowy figures lurk near the hole in the wall.
+  
+- **Enemies**: 
+  - 3 **Were-Rats** (MM, CR 2)
+  - 2 **Swarm of Rats** (MM, CR 1/4)
+
+- **Mechanics**:
+  - The Were-Rats start combat by flipping a nearby barrel, spilling enchanted ale that creates difficult terrain (10 ft. radius). Creatures that start their turn in the area must succeed on a DC 13 Wisdom save or be intoxicated, suffering disadvantage on attack rolls for 1 minute.
+  - The Swarm of Rats uses hit-and-run tactics, moving between barrels for cover.
+
+- **Environment**: 
+  - Collapsing barrels (AC 12, 10 HP): Attackers can target barrels to flood areas, pushing creatures (DC 14 Strength save) or creating temporary cover.
+
+
+1. **Beer Cellar**:
+   - Circular room filled with barrels, crates, and narrow walkways. A hole in the far wall leads to the Mosaic Corridor.
+
+
+### **Beer Cellar: Barrel Mimic Ambush**
+
+#### **Setup**:
+Amid the towering casks of ale, one barrel looks particularly inviting. Its wooden planks glisten with fresh varnish, and it smells of rich hops. As adventurers approach, the "barrel" suddenly grows grotesque tendrils and a slavering mouth, lunging at the nearest character.
+
+#### **Enemy**:
+**Barrel Mimic**  
+- **AC**: 12  
+- **HP**: 65  
+- **Abilities**:
+  - **Shapechanger**: The mimic remains indistinguishable from a normal barrel while motionless.
+  - **Adhesive**: Any creature that touches the mimic is grappled (escape DC 13). Ability checks to escape have disadvantage.
+  - **Pseudopod**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 10 (2d6+3) bludgeoning damage.
+  - **Bite**: Melee Weapon Attack: +5 to hit, reach 5 ft., one target. Hit: 13 (2d8+3) piercing damage.
+
+#### **Mechanics**:
+- The mimic attacks the first character who approaches within 5 feet.
+- If hit with a melee attack while Adhesive is active, the attacker’s weapon is stuck unless they succeed on a DC 13 Strength check.
+
+#### **Environment Interaction**:
+- Other barrels may be toppled to create difficult terrain or to knock the mimic prone (DC 14 Strength to tip a barrel onto it).
+- Spilled ale interacts with the mimic's adhesive, loosening it temporarily (allowing a grappled creature to escape with advantage).
+
+### **Optional Twist**:
+- The mimic, once bloodied (reduced to half HP), attempts to retreat by rolling toward the hole in the wall where the Were-Rats fled. If it escapes, it may reappear later in another encounter, perhaps hiding among supplies in the Lab or Storeroom.
+
