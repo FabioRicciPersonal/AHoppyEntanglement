@@ -4,91 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "e777ec8717e3592c",
+        "id": "ad9b21af55ef6ada",
         "type": "tabs",
         "children": [
           {
-            "id": "8b57e4c4a86eb310",
+            "id": "bd1bbd08b3b88d0c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "A Most Potent Brew/1. The Wizard´s Tower Brewing Co.md",
+                "file": "5. The World/2. NPC's/1. Barleythorpe/4. Elliora “Ella” Copperkettle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1. The Wizard´s Tower Brewing Co"
-            }
-          },
-          {
-            "id": "71d676809e644495",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Most Potent Brew/2. The Beer Cellar.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "2. The Beer Cellar"
-            }
-          },
-          {
-            "id": "d7dbb20c18ecda03",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Most Potent Brew/3. The Mosaic Corridor.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "3. The Mosaic Corridor"
-            }
-          },
-          {
-            "id": "fb11b490c43f9caf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Most Potent Brew/4. The Well Room.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4. The Well Room"
-            }
-          },
-          {
-            "id": "1a18ea56de0e0cdb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Most Potent Brew/5. The Lab.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "5. The Lab"
-            }
-          },
-          {
-            "id": "68db28b2dd4f46fb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "A Most Potent Brew/6. The Brewing Vats.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "6. The Brewing Vats"
+              "title": "4. Elliora “Ella” Copperkettle"
             }
           }
         ]
@@ -147,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 351.5
   },
   "right": {
     "id": "be991f2d8ea68c5f",
@@ -163,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Start in the campaign.md",
+                "file": "5. The World/1. The Story/1.1. A Hoppy Entanglement/1.1.1 A Most Potent Brew/3. The Mosaic Corridor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Start in the campaign"
+              "title": "Backlinks for 3. The Mosaic Corridor"
             }
           },
           {
@@ -214,6 +144,16 @@
               "icon": "lucide-list",
               "title": "Outline of Start in the campaign"
             }
+          },
+          {
+            "id": "73efffb75d66de6b",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
+            }
           }
         ]
       }
@@ -229,18 +169,45 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "8b57e4c4a86eb310",
+  "active": "bd1bbd08b3b88d0c",
   "lastOpenFiles": [
-    "A Most Potent Brew/6. The Brewing Vats.md",
-    "A Most Potent Brew/5. The Lab.md",
-    "A Most Potent Brew/4. The Well Room.md",
-    "A Most Potent Brew/3. The Mosaic Corridor.md",
-    "A Most Potent Brew/2. The Beer Cellar.md",
-    "A Most Potent Brew/1. The Wizard´s Tower Brewing Co.md",
-    "A Most Potent Brew",
+    "5. The World/2. NPC's/1. Barleythorpe/5. Garrick Trundlethorn.md",
+    "5. The World/2. NPC's/1. Barleythorpe/6. Sorenthis Wyrmdraft.md",
+    "5. The World/2. NPC's/1. Barleythorpe/4. Elliora “Ella” Copperkettle.md",
+    "5. The World/4. The Stores/4.1. Barleythorpe/4.4. Iron & Ale Anvilworks.md",
+    "5. The World/4. The Stores/4.1. Barleythorpe/4.3. Arcane Ales & Elixirs Inventory.md",
+    "5. The World/4. The Stores/4.1. Barleythorpe/4.2. Cask and Curiosities Inventory.md",
+    "5. The World/4. The Stores/4.1. Barleythorpe/4.1 Brewtique Inventory.md",
+    "5. The World/2. NPC's/1. Barleythorpe/3. Thraim Ironbraid.md",
+    "5. The World/4. The Stores/4.1. Barleythorpe/4.5. Common Store inventory.md",
+    "5. The World/2. NPC's/1. Barleythorpe/1. Glowkindle.md",
+    "5. The World/2. NPC's/1. Barleythorpe/2. Osric “Mutton” Hales.md",
+    "z_Assets/3. Adventurers",
+    "z_Assets/2. NPC's",
+    "z_Assets/1. Monsters",
+    "2. Scratch Notes/3.1 Name.md",
+    "4. Session Journals/First Session Shopping",
+    "3. The Party/3.5. Biggus Dickus",
+    "3. The Party/3.4. Ignoranth Arseholius",
+    "3. The Party/3.3. Vaelis Moonveil",
+    "3. The Party/3.2. Macauley Mc McFeegle",
+    "5. The World/4. The Stores/4.1. Barleythorpe",
+    "3. The Party/3.1. Himo Galanodel/1. Scratch Notes/1.1. What He needs.md",
+    "5. The World/1. The Story/1.1. A Hoppy Entanglement/1.1.1 A Most Potent Brew/0.1. Barleythorpe.md",
+    "5. The World/2. NPC's/1. Barleythorpe",
+    "5. The World/1. The Story/1.1. A Hoppy Entanglement/1.1.1 A Most Potent Brew/2. The Beer Cellar.md",
+    "5. The World/1. The Story/1.1. A Hoppy Entanglement/1.1.1 A Most Potent Brew/3. The Mosaic Corridor.md",
+    "5. The World/1. The Story/1.1. A Hoppy Entanglement/1.1.1 A Most Potent Brew/4. The Well Room.md",
+    "5. The World/1. The Story/1.1. A Hoppy Entanglement/1.1.1 A Most Potent Brew/5. The Lab.md",
+    "5. The World/1. The Story/1.1. A Hoppy Entanglement/1.1.1 A Most Potent Brew/6. The Brewing Vats.md",
+    "5. The World/1. The Story/1.1. A Hoppy Entanglement/Hooks.md",
+    "5. The World/1. The Story/1.1. A Hoppy Entanglement/1.1.1 A Most Potent Brew/1. The Wizard´s Tower Brewing Co.md",
+    "Untitled.md",
+    "2024-11-24.md",
     "Untitled.canvas"
   ]
 }
