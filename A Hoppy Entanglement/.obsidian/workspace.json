@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3. The Party/3.5. Biggus Dickus/Biggus Dickus.md",
+                "file": "5. The World/1. The Story/1.1. A Hoppy Entanglement/1.1.4. The Final Flask/Test.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Biggus Dickus"
+              "title": "Test"
             }
           }
         ]
@@ -175,8 +175,11 @@
   },
   "active": "bd1bbd08b3b88d0c",
   "lastOpenFiles": [
-    "3. The Party/3.4. Ignoranth Arseholius/Ignotanth Arseholius.md",
+    "5. The World/1. The Story/1.1. A Hoppy Entanglement/1.1.3. The Alembic Vault/Test.md",
+    "5. The World/1. The Story/1.1. A Hoppy Entanglement/1.1.4. The Final Flask/Test.md",
+    "5. The World/1. The Story/1.1. A Hoppy Entanglement/1.1.2. Mistbrew Cove/Test.md",
     "3. The Party/3.5. Biggus Dickus/Biggus Dickus.md",
+    "3. The Party/3.4. Ignoranth Arseholius/Ignotanth Arseholius.md",
     "3. The Party/3.3. Vaelis Moonveil/Vaelis Moonveil.md",
     "3. The Party/3.2. Macauley Mc McFeegle/Macauley Mc McFeegle.md",
     "3. The Party/3.1. Himo Galanodel/Himo Galanodel.md",
@@ -198,7 +201,6 @@
     "5. The World/2. NPC's/1. Barleythorpe/3. Thraim Ironbraid.md",
     "5. The World/4. The Stores/4.1. Barleythorpe/4.5. Common Store inventory.md",
     "5. The World/2. NPC's/1. Barleythorpe/1. Glowkindle.md",
-    "5. The World/2. NPC's/1. Barleythorpe/2. Osric “Mutton” Hales.md",
     "z_Assets/3. Adventurers",
     "z_Assets/2. NPC's",
     "z_Assets/1. Monsters",
@@ -208,8 +210,6 @@
     "3. The Party/3.3. Vaelis Moonveil",
     "3. The Party/3.2. Macauley Mc McFeegle",
     "5. The World/4. The Stores/4.1. Barleythorpe",
-    "3. The Party/3.1. Himo Galanodel/1. Scratch Notes/1.1. What He needs.md",
-    "5. The World/1. The Story/1.1. A Hoppy Entanglement/1.1.1 A Most Potent Brew/0.1. Barleythorpe.md",
     "5. The World/2. NPC's/1. Barleythorpe",
     "Untitled.canvas"
   ]
