@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "ad9b21af55ef6ada",
+        "id": "a8a0ac255adfbf3d",
         "type": "tabs",
         "children": [
           {
-            "id": "bd1bbd08b3b88d0c",
+            "id": "f6ddae6a5cf9ce9d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z_Threads/Content.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Content"
+              "title": "New tab"
             }
           }
         ]
@@ -173,10 +169,11 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "bd1bbd08b3b88d0c",
+  "active": "b5f77a700bd2dd30",
   "lastOpenFiles": [
-    "6. Mechanics/What Do Items Do/Brewer's Tome.md",
+    "z_Assets/4. Map",
     "z_Threads/Content.md",
+    "6. Mechanics/What Do Items Do/Brewer's Tome.md",
     "z_Threads",
     "5. The World/4. The Stores/4.1. Barleythorpe/4.2. Cask and Curiosities Inventory.md",
     "5. The World/4. The Stores/4.1. Barleythorpe/4.1 Brewtique Inventory.md",
@@ -202,7 +199,6 @@
     "5. The World/2. NPC's/1. Barleythorpe/6. Sorenthis Wyrmdraft.md",
     "5. The World/4. The Stores/4.1. Barleythorpe/4.4. Iron & Ale Anvilworks.md",
     "5. The World/4. The Stores/4.1. Barleythorpe/4.3. Arcane Ales & Elixirs Inventory.md",
-    "5. The World/2. NPC's/1. Barleythorpe/3. Thraim Ironbraid.md",
     "z_Assets/3. Adventurers",
     "z_Assets/2. NPC's",
     "z_Assets/1. Monsters",
