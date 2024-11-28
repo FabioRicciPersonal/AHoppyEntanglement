@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "5. The World/1. The Story/1.1. A Hoppy Entanglement/1.1.4. The Final Flask/Test.md",
+                "file": "z_Threads/Content.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Test"
+              "title": "Content"
             }
           }
         ]
@@ -175,8 +175,15 @@
   },
   "active": "bd1bbd08b3b88d0c",
   "lastOpenFiles": [
-    "5. The World/1. The Story/1.1. A Hoppy Entanglement/1.1.3. The Alembic Vault/Test.md",
+    "6. Mechanics/What Do Items Do/Brewer's Tome.md",
+    "z_Threads/Content.md",
+    "z_Threads",
+    "5. The World/4. The Stores/4.1. Barleythorpe/4.2. Cask and Curiosities Inventory.md",
+    "5. The World/4. The Stores/4.1. Barleythorpe/4.1 Brewtique Inventory.md",
+    "6. Mechanics/Test.md",
+    "6. Mechanics/What Do Items Do",
     "5. The World/1. The Story/1.1. A Hoppy Entanglement/1.1.4. The Final Flask/Test.md",
+    "5. The World/1. The Story/1.1. A Hoppy Entanglement/1.1.3. The Alembic Vault/Test.md",
     "5. The World/1. The Story/1.1. A Hoppy Entanglement/1.1.2. Mistbrew Cove/Test.md",
     "3. The Party/3.5. Biggus Dickus/Biggus Dickus.md",
     "3. The Party/3.4. Ignoranth Arseholius/Ignotanth Arseholius.md",
@@ -187,7 +194,6 @@
     "z_Assets/3. Adventurers/Test.md",
     "z_Assets/2. NPC's/Test.md",
     "z_Assets/1. Monsters/Test.md",
-    "6. Mechanics/Test.md",
     "4. Session Journals/First Session Shopping/1. Test.md",
     "1. DM Screen/1.1 I don't know yet.md",
     "2. Scratch Notes/3.1 Name.md",
@@ -196,11 +202,7 @@
     "5. The World/2. NPC's/1. Barleythorpe/6. Sorenthis Wyrmdraft.md",
     "5. The World/4. The Stores/4.1. Barleythorpe/4.4. Iron & Ale Anvilworks.md",
     "5. The World/4. The Stores/4.1. Barleythorpe/4.3. Arcane Ales & Elixirs Inventory.md",
-    "5. The World/4. The Stores/4.1. Barleythorpe/4.2. Cask and Curiosities Inventory.md",
-    "5. The World/4. The Stores/4.1. Barleythorpe/4.1 Brewtique Inventory.md",
     "5. The World/2. NPC's/1. Barleythorpe/3. Thraim Ironbraid.md",
-    "5. The World/4. The Stores/4.1. Barleythorpe/4.5. Common Store inventory.md",
-    "5. The World/2. NPC's/1. Barleythorpe/1. Glowkindle.md",
     "z_Assets/3. Adventurers",
     "z_Assets/2. NPC's",
     "z_Assets/1. Monsters",
@@ -209,8 +211,6 @@
     "3. The Party/3.4. Ignoranth Arseholius",
     "3. The Party/3.3. Vaelis Moonveil",
     "3. The Party/3.2. Macauley Mc McFeegle",
-    "5. The World/4. The Stores/4.1. Barleythorpe",
-    "5. The World/2. NPC's/1. Barleythorpe",
     "Untitled.canvas"
   ]
 }
